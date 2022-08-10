@@ -1,0 +1,30 @@
+.group-2 {
+  align-items: center;
+  background-color: var(--apple);
+  border-radius: 40px;
+  box-shadow: 0px 10px 20px #f5ebe3;
+  display: flex;
+  height: 80px;
+  left: 721px;
+  min-width: 80px;
+  padding: 0 27px;
+  position: absolute;
+  top: 819px;
+}
+
+.rectangle-2-1 {
+  height: 26px;
+  width: 26px;
+}
+
+.group-2.group-2-1 {
+  background-color: var(--blue-jeans);
+  left: 1664px;
+  top: 821px;
+}
+
+.group-2.group-2-2 {
+  background-color: var(--sunshade);
+  left: 1664px;
+}
+

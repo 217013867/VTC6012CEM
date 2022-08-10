@@ -1,0 +1,57 @@
+.group-107,
+.group-107-1 {
+  align-items: center;
+  background-color: var(--shark);
+  border-radius: 18.5px/18px;
+  display: flex;
+  height: 36px;
+  left: 701px;
+  min-width: 37px;
+  padding: 0 5.5px;
+  position: absolute;
+  top: 198px;
+}
+
+.line-container,
+.line-container-1 {
+  height: 20px;
+  position: relative;
+  width: 22px;
+}
+
+.line-18,
+.line-18-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.line-19,
+.line-19-1 {
+  height: 20px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.line-20,
+.line-20-1 {
+  height: 20px;
+  left: 19px;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.line-21,
+.line-21-1 {
+  height: 3px;
+  left: 2px;
+  position: absolute;
+  top: 8px;
+  width: 21px;
+}
+

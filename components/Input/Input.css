@@ -1,0 +1,33 @@
+.input {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: min-content;
+  padding: 12px 0px;
+  width: min-content;
+}
+
+.container-5 {
+  height: 66px;
+  min-width: 548px;
+}
+
+.text-field {
+  display: flex;
+  flex-direction: column-reverse;
+  height:30px;
+}
+
+.label-text {
+  color: var(--onyx-2);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0.50px;
+  line-height: 25.6px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 516px;
+}
+

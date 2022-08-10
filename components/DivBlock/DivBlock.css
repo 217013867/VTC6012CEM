@@ -1,0 +1,22 @@
+.div-block {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: min-content;
+  width: min-content;
+}
+
+.section-title {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.paragraph-12 {
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 458px;
+}
+

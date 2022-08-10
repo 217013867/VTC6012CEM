@@ -1,0 +1,13 @@
+.click-area {
+  align-items: flex-start;
+  display: flex;
+  height: min-content;
+  padding: 8px;
+  width: min-content;
+}
+
+.arrow {
+  height: 24px;
+  min-width: 24px;
+}
+

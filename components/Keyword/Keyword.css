@@ -1,0 +1,23 @@
+.keyword-5 {
+  align-items: flex-start;
+  border-radius: 200px;
+  display: flex;
+  height: 32px;
+  min-width: 113px;
+  padding: 6px 16px;
+}
+
+.the-batman {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.keyword-5.keyword-6 {
+  left: 166px;
+  min-width: 112px;
+  position: absolute;
+  top: 0;
+}
+

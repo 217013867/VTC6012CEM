@@ -1,0 +1,48 @@
+.steps-process-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: min-content;
+  justify-content: center;
+  margin-right: 5.0px;
+  width: min-content;
+}
+
+.round {
+  height: 40px;
+  min-width: 40px;
+}
+
+.sub {
+  height: 43px;
+  min-width: 95px;
+}
+
+.overlap-group-14 {
+  height: 33px;
+  position: relative;
+  top: 10px;
+  width: 95px;
+}
+
+.crown {
+  height: 30px;
+  left: 42px;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.box {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 95px;
+}
+
+.steps-process-1.steps-process {
+  margin-right: unset;
+}
+

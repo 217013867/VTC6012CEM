@@ -1,0 +1,37 @@
+.group-118 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 1.0px;
+  min-height: 173px;
+  position: relative;
+  width: 95px;
+}
+
+.rectangle-63 {
+  background-color: var(--alto);
+  height: 78px;
+  width: 27px;
+}
+
+.group-118.group-119 {
+  left: 0;
+  margin-right: unset;
+  position: absolute;
+  top: 0;
+}
+
+.group-118.group-120 {
+  left: 0;
+  margin-right: unset;
+  position: absolute;
+  top: 172px;
+}
+
+.group-118.group-121 {
+  left: 0;
+  margin-right: unset;
+  position: absolute;
+  top: 343px;
+}
+

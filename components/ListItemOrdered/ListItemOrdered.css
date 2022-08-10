@@ -1,0 +1,70 @@
+.list-item-ordered-1 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.number {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  text-align: right;
+  white-space: nowrap;
+  width: 28px;
+}
+
+.text-13 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 366px;
+}
+
+.list-item-ordered-1.list-item-ordered-2 .text-13 {
+  min-width: 605px;
+  width: unset;
+}
+
+.list-item-ordered-1.list-item-ordered-3 .text-13 {
+  min-width: 449px;
+  width: unset;
+}
+
+.list-item-ordered-1.list-item-ordered-4 .text-13 {
+  min-width: 642px;
+  width: unset;
+}
+
+.list-item-ordered-1.list-item-ordered-5 .text-13 {
+  min-width: 365px;
+  width: unset;
+}
+
+.list-item-ordered-1.list-item-ordered-6 .text-13 {
+  min-width: 627px;
+  width: unset;
+}
+
+.list-item-ordered-1.list-item-ordered-7 .text-13 {
+  min-width: 430px;
+  width: unset;
+}
+
+.list-item-ordered-1.list-item-ordered-8 .text-13 {
+  min-width: 379px;
+  width: unset;
+}
+
+.list-item-ordered-1.list-item-ordered-9 .text-13 {
+  min-width: 489px;
+  width: unset;
+}
+
+.list-item-ordered-1.list-item-ordered .text-13 {
+  min-width: 666px;
+  width: unset;
+}
+

@@ -1,0 +1,439 @@
+.search-box {
+  align-items: flex-start;
+  background-color: #e6e6e6;
+  display: flex;
+  height: 1051px;
+  padding: 64px 531px;
+  width: 1778px;
+}
+
+.overlap-group-container {
+  height: 909px;
+  margin-left: 4px;
+  position: relative;
+  width: 712px;
+}
+
+.overlap-group2-10 {
+  height: 580px;
+  left: 0;
+  position: absolute;
+  top: 329px;
+  width: 708px;
+}
+
+.search-input-bg {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 400px;
+  left: 0;
+  position: absolute;
+  top: 180px;
+  width: 708px;
+}
+
+.cloud-service-keywords {
+  left: 32px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 201px;
+}
+
+.search-again {
+  left: 541px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 201px;
+}
+
+.rectangle-53 {
+  background-color: var(--bon-jour);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 243px;
+  width: 708px;
+}
+
+.rectangle-54 {
+  background-color: var(--bon-jour);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 404px;
+  width: 708px;
+}
+
+.suggests {
+  align-items: flex-start;
+  display: flex;
+  height: 552px;
+  left: 31px;
+  min-width: 608px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 0;
+}
+
+.flex-col-34 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 552px;
+  width: 282px;
+}
+
+.star {
+  align-self: flex-end;
+  height: 12px;
+  margin-right: 37.72px;
+  width: 15px;
+}
+
+.company-suggests {
+  letter-spacing: 0;
+  margin-top: 424px;
+  min-height: 21px;
+}
+
+.brand {
+  align-items: center;
+  display: flex;
+  height: 71px;
+  margin-left: 1px;
+  margin-top: 25px;
+  min-width: 281px;
+}
+
+.overlap-group1-14 {
+  align-items: center;
+  background-color: var(--french-rose);
+  border-radius: 4px;
+  display: flex;
+  height: 64px;
+  margin-top: 1.0px;
+  min-width: 70px;
+  padding: 0 15px;
+}
+
+.x-logo {
+  height: 40px;
+  width: 40px;
+}
+
+.service-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 8px;
+  min-height: 71px;
+  width: 199px;
+}
+
+.scalable-storage-in-th-cloud-service {
+  height: 38px;
+  letter-spacing: 0;
+}
+
+.analytics-for-the-financial-services {
+  letter-spacing: 0;
+  margin-left: 1px;
+  margin-top: 18px;
+  min-height: 15px;
+  opacity: 0.7;
+}
+
+.brand-1 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 550px;
+  margin-left: 20px;
+  margin-top: 0.44px;
+  min-width: 308px;
+}
+
+.overlap-group-18 {
+  align-items: center;
+  background-color: var(--vermilion);
+  border-radius: 4px;
+  display: flex;
+  height: 64px;
+  margin-bottom: 2.0px;
+  min-width: 70px;
+  padding: 0 15px;
+}
+
+.flex-col-35 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 14px;
+  min-height: 550px;
+  width: 220px;
+}
+
+.star-1 {
+  align-self: flex-end;
+  height: 12px;
+  width: 15px;
+}
+
+.analytics-for-ecomme {
+  letter-spacing: 0;
+  margin-top: 469px;
+  min-height: 38px;
+}
+
+.mobile-push-notifications {
+  letter-spacing: 0;
+  margin-left: 1px;
+  margin-top: 15px;
+  min-height: 16px;
+  opacity: 0.7;
+  width: 161px;
+}
+
+.no-result {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 248px;
+  min-height: 103px;
+  position: absolute;
+  top: 276px;
+  width: 186px;
+}
+
+.no-results-found {
+  color: var(--black);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  margin-top: 75px;
+  min-height: 28px;
+  min-width: 184px;
+}
+
+.search-not-found-1 {
+  height: 48px;
+  margin-right: 2.0px;
+  margin-top: 566px;
+  width: 48px;
+}
+
+.overlap-group3-10 {
+  height: 437px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 708px;
+}
+
+.search-input-bg-1 {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 432px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 708px;
+}
+
+.search-sowftare-services-and-more {
+  left: 32px;
+  letter-spacing: 0;
+  opacity: 0.6;
+  position: absolute;
+  top: 26px;
+}
+
+.search {
+  left: 585px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 26px;
+}
+
+.rectangle-53-1 {
+  background-color: var(--bon-jour);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 68px;
+  width: 708px;
+}
+
+.rectangle-54-1 {
+  background-color: var(--bon-jour);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 260px;
+  width: 708px;
+}
+
+.popular-search {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 31px;
+  min-height: 128px;
+  position: absolute;
+  top: 97px;
+  width: 547px;
+}
+
+.popular-search-1 {
+  letter-spacing: 0;
+  min-height: 21px;
+}
+
+.flex-row-51 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 31px;
+  min-width: 544px;
+  position: relative;
+}
+
+.keyword {
+  align-items: flex-start;
+  border-radius: 200px;
+  display: flex;
+  height: 32px;
+  margin-left: 1px;
+  min-width: 151px;
+  padding: 6px 16px;
+}
+
+.work-managment,
+.stable-storage-cloud,
+.cloud-storage-service,
+.access-salary,
+.simple-storage-service {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.keyword-container {
+  height: 32px;
+  margin-left: 1px;
+  position: relative;
+  width: 278px;
+}
+
+.keyword-1 {
+  align-items: flex-start;
+  border-radius: 200px;
+  display: flex;
+  height: 32px;
+  left: 0;
+  min-width: 172px;
+  padding: 6px 16px;
+  position: absolute;
+  top: 0;
+}
+
+.flex-row-52 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 12px;
+  min-width: 486px;
+}
+
+.keyword-2 {
+  align-items: flex-start;
+  border-radius: 200px;
+  display: flex;
+  height: 32px;
+  min-width: 179px;
+  padding: 6px 16px;
+}
+
+.keyword-container-1 {
+  height: 32px;
+  margin-left: 1px;
+  position: relative;
+  width: 306px;
+}
+
+.keyword-3 {
+  align-items: flex-start;
+  border-radius: 200px;
+  display: flex;
+  height: 32px;
+  left: 0;
+  min-width: 126px;
+  padding: 6px 16px;
+  position: absolute;
+  top: 0;
+}
+
+.keyword-4 {
+  align-items: flex-start;
+  border-radius: 200px;
+  display: flex;
+  height: 32px;
+  left: 120px;
+  min-width: 186px;
+  padding: 6px 16px;
+  position: absolute;
+  top: 0;
+}
+
+.suggests-1 {
+  align-items: center;
+  display: flex;
+  height: 408px;
+  left: 31px;
+  min-width: 608px;
+  position: absolute;
+  top: 0;
+}
+
+.flex-col-36 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 408px;
+  width: 282px;
+}
+
+.company-suggests-1 {
+  letter-spacing: 0;
+  margin-top: 280px;
+  min-height: 21px;
+}
+
+.brand-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 406px;
+  margin-left: 20px;
+  margin-top: 0.44px;
+  min-width: 308px;
+}
+
+.flex-col-37 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 14px;
+  min-height: 406px;
+  width: 220px;
+}
+
+.analytics-for-ecomme-1 {
+  letter-spacing: 0;
+  margin-top: 325px;
+  min-height: 38px;
+}
+

@@ -1,0 +1,21 @@
+.row-main {
+  align-items: flex-start;
+  display: flex;
+  height: min-content;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: min-content;
+}
+
+.row-main.row-main-3 {
+  left: unset;
+  position: relative;
+  top: unset;
+}
+
+.row-main.row-main-4 {
+  left: 571px;
+  top: 1414px;
+}
+

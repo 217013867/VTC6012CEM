@@ -1,0 +1,46 @@
+.carousel {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 500px;
+  padding: 40px 64px;
+  width: 1428px;
+}
+
+.slides-box {
+  align-self: stretch;
+  flex: 1;
+  height: 356px;
+  min-width: 1300px;
+  max-width: none;
+}
+
+.slides-navigation {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+  width: min-content;
+}
+
+.slide-indicator {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  padding: 8px;
+  position: relative;
+  width: min-content;
+}
+
+.desctritpion {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  text-align: center;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,40 @@
+.group-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  left: 180px;
+  min-width: 80px;
+  position: absolute;
+  top: 819px;
+  transform: rotate(-180deg);
+}
+
+.ellipse-5 {
+  background-color: var(--apple);
+  border-radius: 40px;
+  box-shadow: 0px 10px 20px #f5ebe3;
+  height: 80px;
+  margin-left: -80px;
+  margin-top: -80px;
+  transform: rotate(-360deg);
+  width: 80px;
+}
+
+.rectangle-2-4 {
+  align-self: flex-end;
+  height: 26px;
+  margin-bottom: 3px;
+  margin-left: 3px;
+  transform: rotate(-180deg);
+  width: 26px;
+}
+
+.group-3.group-3-1 {
+  left: 1123px;
+  top: 821px;
+}
+
+.group-3.group-3-1 .ellipse-5 {
+  background-color: var(--blue-jeans);
+}
+

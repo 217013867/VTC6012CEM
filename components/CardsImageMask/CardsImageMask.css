@@ -1,0 +1,15 @@
+.cards-image-mask-3 {
+  height: 286px;
+  min-width: 286px;
+  position: relative;
+}
+
+.cards-image-mask-4 {
+  height: 286px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 286px;
+}
+

@@ -1,0 +1,34 @@
+.input-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: min-content;
+  margin-bottom: -150.53px;
+  padding: 12px 0px;
+  width: min-content;
+}
+
+.container-7 {
+  height: 66px;
+  min-width: 548px;
+}
+
+.text-field-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.label-text-2 {
+  letter-spacing: 0.50px;
+  line-height: 25.6px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 516px;
+}
+
