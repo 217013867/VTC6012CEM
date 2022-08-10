@@ -37653,7 +37653,7 @@ function Carousel(props) {
     const { desctritpion  } = props;
     const [desIdx, setDesIdx] = (0, _react.useState)(0);
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        className: "carousel",
+        className: "carouselx",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactResponsiveCarousel.Carousel), {
                 showThumbs: false,
@@ -37765,7 +37765,7 @@ $RefreshReg$(_c, "Carousel");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Carousel.css":"42zqq","react-responsive-carousel/lib/styles/carousel.min.css":"2QDrW","react-responsive-carousel":"avFxl","../ClickArea":"j2l7T","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"42zqq":[function() {},{}],"2QDrW":[function() {},{}],"avFxl":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-responsive-carousel":"avFxl","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react-responsive-carousel/lib/styles/carousel.min.css":"2QDrW","../ClickArea":"j2l7T","./Carousel.css":"42zqq"}],"avFxl":[function(require,module,exports) {
 "use strict";
 Object.defineProperty(exports, "__esModule", {
     value: true
@@ -39676,7 +39676,7 @@ exports.fadeAnimationHandler = fadeAnimationHandler;
 },{"react":"21dqq","../../CSSTranslate":"e8Ljj","./utils":"aHp0r"}],"f1NKR":[function(require,module,exports) {
 "use strict";
 
-},{}],"j2l7T":[function(require,module,exports) {
+},{}],"2QDrW":[function() {},{}],"j2l7T":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$60e4 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -39716,7 +39716,7 @@ $RefreshReg$(_c, "ClickArea");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./ClickArea.css":"4qpDn","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"4qpDn":[function() {},{}],"5OLcT":[function() {},{}],"96QYG":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./ClickArea.css":"4qpDn","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"4qpDn":[function() {},{}],"42zqq":[function() {},{}],"5OLcT":[function() {},{}],"96QYG":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$30d1 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;

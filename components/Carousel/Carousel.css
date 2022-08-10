@@ -1,11 +1,11 @@
-.carousel {
+.carouselx {
   align-items: center;
   display: flex;
   flex-direction: column;
   gap: 24px;
   height: 500px;
   padding: 40px 64px;
-  width: 1428px;
+  width: 1200px;
 }
 
 .slides-box {
